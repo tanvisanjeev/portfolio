@@ -1,5 +1,4 @@
-# Data Analyst 
-# Data Scientist
+# Data Analyst, Data Scientist
 
 #Education
 Master of Professional Studies in Analytics, Northeastern University
